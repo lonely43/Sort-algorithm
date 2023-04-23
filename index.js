@@ -15,5 +15,5 @@ function Sort(array){
    }
    return array
 }
-
-console.log(Sort([0,-26,10,99,0,4]))
+// u can write your own array like this:
+// console.log(Sort([0,-26,10,99,0,4]))
